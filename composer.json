@@ -1,0 +1,10 @@
+{
+    "name": "cyril/diveconnect",
+    "description": "Email Sending for DiveConnect",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.11"
+    }
+}

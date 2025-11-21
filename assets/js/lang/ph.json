@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "login": "MAG-LOGIN",
+    "register": "MAGREHISTRO",
+    "masterDiver": "Master Diver",
+    "admin": "Tagapangasiwa",
+    "diver": "Diver",
+    "tidechart": "TIDECHART",
+    "explore": "TUKLASIN",
+    "book": "MAG-BOOK",
+    "about": "TUNGKOL",
+    "language": "Wika",
+    "help": "Tulong",
+    "faq": "FAQ",
+    "support": "Suporta"
+  },
+
+  "hero": {
+    "title": "MABINI",
+    "searchButton": "Maghanap ng mga Diver"
+  },
+
+  "about": {
+    "pageTitle": "Tungkol sa - DIVECONNECT",
+    "heroTitle": "Maligayang Pagdating sa DIVECONNECT",
+    "heroSubtitle": "Pinagdurugtong ang mga divers at turista para sa ligtas, kapana-panabik, at hindi malilimutang diving adventures...",
+    "section1Title": "Ang Aming Misyon",
+    "section1Text": "Layunin ng DiveConnect na pag-ugnayin ang mga sertipikadong master diver at mga turista sa pamamagitan ng isang ligtas at madaling gamitin na booking platform na nakabase sa Mabini, Batangas.",
+    "section2Title": "Bakit DiveConnect?",
+    "section2Text": "Nakasentro kami sa kaligtasan, pagiging tapat, at kaginhawaan. Madaling makakahanap ang mga turista ng verified Master Divers, habang mas nabibigyan ng exposure at oportunidad ang mga lokal na propesyonal.",
+    "section3Title": "Para sa Divers at Turista",
+    "section3Text": "Baguhan ka man o batikang diver, tutulungan ka ng DiveConnect na matuklasan ang pinakamahusay na diving spots at mga gabay sa puso ng Pilipinas."
+  },
+
+  "terms": {
+    "title": "DIVE CONNECT — Mga Tuntunin at Kondisyon",
+
+    "section1": {
+      "title": "1. Pagtanggap ng mga Tuntunin",
+      "content": "Sa paggamit ng DiveConnect, dapat kang sumang-ayon sa mga tuntunin at kondisyon na ito."
+    },
+    "section2": {
+      "title": "2. Pagiging Karapat-dapat ng User",
+      "content": "Ang mga user ay dapat na hindi bababa sa 18 taong gulang upang mag-book o mag-alok ng dive session. Ang mga menor de edad na 14–17 ay maaaring mag-book ng dive. Ang diver ay dapat magdala ng hard copy ng parental/guardian consent form na pirmado ng guardian at ibigay ito sa nakatalagang Master Diver bago ang dive session."
+    },
+    "section3": {
+      "title": "3. Mga Kinakailangan sa Kalusugan at Kaligtasan",
+      "content": "Ang lahat ng Diver at Master Diver ay dapat nasa mabuting kalusugan at pisikal na kondisyon at may responsibilidad na tapat na ideklara ang kanilang kalagayan. Ang mga may umiiral na sakit o kondisyon ay dapat magbigay ng kasalukuyang medical clearance mula sa doktor."
+    },
+    "section4": {
+      "title": "4. Mga Patakaran sa Booking at Pagkansela",
+      "content": "Ang mga booking ay nakadepende sa availability ng Master Diver. Ang pagkansela ay dapat gawin nang hindi bababa sa 24 oras bago ang nakatakdang oras ng dive. Ang mga no-show ay maaaring magresulta sa mga bayad na hindi na maibabalik."
+    },
+    "section5": {
+      "title": "5. Pagbabayad, Subscription, at Paraan ng Pagbabayad",
+      "content": "- Ang mga Master Diver ay kinakailangang magbayad ng hindi na maibabalik na ₱400.00 subscription fee upang manatiling aktibo ang kanilang profile at maging eligible para sa bookings sa Dive Connect platform.<br>- Ang tanging tinatanggap na paraan ng pagbabayad para sa mga dive session booking ay GCash at in-person (cash on hand).<br>- Dapat ilagay ng Master Diver ang kanilang verified GCash QR code sa kanilang profile para sa electronic payment processing."
+    },
+    "section6": {
+      "title": "6. Pananagutan at Pagkilala sa Panganib",
+      "content": "Kinikilala ng mga Diver na ang fun diving ay may kaakibat na mga panganib. Anumang pananagutan na magmumula sa mga aksidente o negatibong insidente na kinasasangkutan ng Master Diver o Diver sa panahon ng naka-book na session ay magiging responsibilidad ng kumpanya at ito ang sasagot dito."
+    },
+    "section7": {
+      "title": "7. Paggamit ng Platform at Pag-uugali",
+      "content": "Ang mga user ay dapat magbigay ng tumpak na impormasyon. Ang abusado, mapanlinlang, o nakakagambalang pag-uugali ay maaaring magresulta sa suspension o pagtatapos ng account."
+    },
+    "section8": {
+      "title": "8. Kagamitan at Pagkawala ng Renta",
+      "content": "- Ang Master Diver ay responsable sa pagbibigay ng mga tuntunin, rate, at kondisyon ng pag-upa ng kagamitan sa kumpirmasyon ng booking.<br>- Ang Diver ay ganap na responsable para sa anumang pinsala o pagkawala ng rented na kagamitan na ibinigay ng Master Diver sa panahon ng dive session at maaaring kailanganing magbayad para sa pagkukumpuni o pagpapalit na gastos ayon sa itinakda ng Master Diver."
+    },
+    "section9": {
+      "title": "9. Paglilihim ng Data at Privacy",
+      "content": "Ang data ng user ay hahawakan ayon sa Privacy Policy. Ang personal na impormasyon ay ibabahagi lamang sa nakatalagang Master Diver para sa layunin ng booking."
+    },
+    "section10": {
+      "title": "10. Mga Pagbabago at Update",
+      "content": "Ang DIVE CONNECT ay may karapatang i-update ang mga Tuntunin at Kondisyon na ito anumang oras. Aabisuhan ang mga user sa pamamagitan ng email o system notification."
+    },
+    "section11": {
+      "title": "11. Makipag-ugnayan sa Amin",
+      "content": "Para sa mga katanungan, mangyaring mag-email sa amin sa <a href='mailto:diveconnect25@gmail.com' class='text-blue-600 hover:text-blue-800 underline'>diveconnect25@gmail.com</a>."
+    },
+
+    "agreeLabel": "Sumasang-ayon ako sa mga Tuntunin at Kondisyon",
+    "agreeButton": "Sumasang-ayon Ako",
+    "disagreeButton": "Hindi Sumasang-ayon"
+  }
+}

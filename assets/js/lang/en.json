@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "login": "LOGIN",
+    "register": "REGISTER",
+    "masterDiver": "Master Diver",
+    "admin": "Admin",
+    "diver": "Diver",
+    "tidechart": "TIDECHART",
+    "explore": "EXPLORE",
+    "book": "BOOK",
+    "about": "ABOUT",
+    "language": "Language",
+    "help": "Help",
+    "faq": "FAQ",
+    "support": "Support"
+  },
+
+  "hero": {
+    "title": "MABINI",
+    "searchButton": "Search for Divers"
+  },
+
+  "about": {
+    "pageTitle": "About - DIVECONNECT",
+    "heroTitle": "Welcome to DIVECONNECT",
+    "heroSubtitle": "Connecting divers and tourists for safe, exciting, and unforgettable diving adventures...",
+    "section1Title": "Our Mission",
+    "section1Text": "DiveConnect aims to connect certified master divers and tourists through a safe and easy-to-use booking platform based in Mabini, Batangas.",
+    "section2Title": "Why DiveConnect?",
+    "section2Text": "We focus on safety, transparency, and convenience. Tourists can easily find verified Master Divers, while local professionals gain more exposure and opportunities.",
+    "section3Title": "For Divers and Tourists",
+    "section3Text": "Whether you are a beginner or an experienced diver, DiveConnect helps you discover the best diving spots and guides in the heart of the Philippines."
+  },
+
+  "terms": {
+    "title": "DIVE CONNECT — Terms and Conditions",
+
+    "section1": {
+      "title": "1. Acceptance of Terms",
+      "content": "By using DiveConnect, you must agree to these terms & conditions."
+    },
+    "section2": {
+      "title": "2. User Eligibility",
+      "content": "Users must be at least 18 years old to book or offer dive sessions. Minors aged 14–17 may book dives. The diver must bring a hard copy of the parental/guardian consent form, signed by the guardian, and hand it over to the assigned Master Diver prior to the dive session."
+    },
+    "section3": {
+      "title": "3. Health & Safety Requirements",
+      "content": "All divers and Master Divers must be in good health and physical condition and are responsible for honestly declaring their status. Users with pre-existing conditions must provide current medical clearance from a physician."
+    },
+    "section4": {
+      "title": "4. Booking & Cancellation Policies",
+      "content": "Bookings are subject to Master Diver availability. Cancellations must be made at least 24 hours in advance of the scheduled dive time. No-shows may incur non-refundable fees."
+    },
+    "section5": {
+      "title": "5. Payment, Subscription, & Mode of Payment",
+      "content": "- Master Divers are required to pay a non-refundable ₱400.00 subscription fee to maintain an active profile and be eligible for bookings on the Dive Connect platform.<br>- The only accepted forms of payment for dive session bookings are GCash and in-person (cash on hand).<br>- Master Divers must attach their verified GCash QR code to their profile for electronic payment processing."
+    },
+    "section6": {
+      "title": "6. Liability & Risk Acknowledgement",
+      "content": "Divers acknowledge that fun diving involves inherent risks. Any liability arising from accidents or negative incidents involving the Master Diver or Diver during a booked session will be the responsibility of, and answered for by the company."
+    },
+    "section7": {
+      "title": "7. Platform Usage & Conduct",
+      "content": "Users must provide accurate information. Abusive, fraudulent, or disruptive behavior may result in account suspension or termination."
+    },
+    "section8": {
+      "title": "8. Equipment & Rental Loss",
+      "content": "- The Master Diver is responsible for providing equipment rental terms, rates, and conditions upon booking confirmation.<br>- The Diver is fully responsible for any damage to or loss of rental equipment provided by the Master Diver during the dive session and may be required to pay for repair or replacement costs as determined by the Master Diver."
+    },
+    "section9": {
+      "title": "9. Data Privacy & Confidentiality",
+      "content": "User data will be handled according to the Privacy Policy. Personal information is shared only with the assigned Master Diver for booking purposes."
+    },
+    "section10": {
+      "title": "10. Amendments & Updates",
+      "content": "DIVE CONNECT reserves the right to update these Terms and Conditions at any time. Users will be notified via email or system notification."
+    },
+    "section11": {
+      "title": "11. Email Us",
+      "content": "For inquiries, please email us at <a href='mailto:diveconnect25@gmail.com' class='text-blue-600 hover:text-blue-800 underline'>diveconnect25@gmail.com</a>."
+    },
+
+    "agreeLabel": "I agree to the Terms and Conditions",
+    "agreeButton": "I Agree",
+    "disagreeButton": "Disagree"
+  }
+}
